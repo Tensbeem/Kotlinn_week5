@@ -1,0 +1,1 @@
+D:\Natchaa\Kotlin_Work\KotlinWeek5\build\classes\kotlin\main\Lamp.class;D:\Natchaa\Kotlin_Work\KotlinWeek5\build\classes\kotlin\main\MainKt.class
